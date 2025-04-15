@@ -1,0 +1,19 @@
+{
+    "theme": "light",
+    "volume": 1.0,
+    "preferred_languages": {
+        "source": "id",
+        "target": "en"
+    },
+    "audio_quality": "high",
+    "output_format": "mp3",
+    "privacy_mode": false,
+    "microphone_sensitivity": 300,
+    "speech_speed": 1.0,
+    "multi_language_targets": [
+        "en",
+        "fr",
+        "id"
+    ],
+    "power_saving_mode": false
+}

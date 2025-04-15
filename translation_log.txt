@@ -1,0 +1,12 @@
+Input: buah (id)
+Output: fruit (en)
+
+Input: ferdinand ganteng (id)
+Output: Ferdinand is handsome (en)
+
+Input: kamu ganteng (id)
+Output: you're handsome (en)
+
+Input: siapa nama kamu (id)
+Output: what's your name (en)
+
